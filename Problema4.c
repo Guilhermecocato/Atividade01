@@ -4,7 +4,7 @@ int main()
 {
     float temperatura, celsius;
     
-    //Dada um temperatura em graus Fahrenheit, informe o valor correspondente em graus Celsius
+    //DADA UMA TEMPERATURA EM GRAU FAHRENHEIT, INFORME O VALOR CORRESPONDENTE EM GRAUS CELSIUS
     
     printf("INFORME UMA TEMPERATURA EM GRAU FAHRENHEIT\nE CONVERTA EM GRAUS CELSIUS");
     
