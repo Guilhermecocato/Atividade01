@@ -12,7 +12,7 @@ int main()
     scanf("%f", &temperatura);
     
     celsius = (temperatura - 32) * 5/9;
-    printf("\nGRAUS CELSIUS = %fºC", celsius);
+    printf("GRAUS CELSIUS = %fºC", celsius);
 
     return 0;
 }
